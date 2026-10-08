@@ -118,4 +118,4 @@ Le bouton vert dans la section Démarrage rapide.
 
 ---
 
-*light-moss-360 · Mis à jour 2026-10-07 · Partagé sous licence MIT*
+*light-moss-360 · Mis à jour 2026-10-08 · Partagé sous licence MIT*
